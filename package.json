@@ -19,6 +19,8 @@
   "homepage": "https://github.com/ricarra08/bread#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "express-react-views": "^0.11.0",
+    "method-override": "^3.0.0"
   }
 }
